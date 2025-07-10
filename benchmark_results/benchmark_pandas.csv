@@ -1,0 +1,15 @@
+Library,Step,Time (s),Peak Memory (MB)
+Pandas,Load CSV,138.7916,6036.7684
+Pandas,Describe numeric columns,1.0986,366.8424
+Pandas,Merchang type value counts,0.7086,14.9727
+Pandas,Missing values per column,6.4375,538.8558
+Pandas,Min txn_date,0.0537,67.4248
+Pandas,Max txn_date,0.0132,14.9697
+Pandas,Unique customer_id count,0.3894,59.938
+Pandas,Daily transaction count,0.3228,187.396
+Pandas,Monthly transaction count,0.2404,187.0997
+Pandas,Avg/Total txn by merch type,0.4302,119.7593
+Pandas,Top 10 customers by volume,0.3836,119.9005
+Pandas,Fraud vs Non-Fraud Count,0.044,67.3585
+Pandas,Fraud rate by merchant_type,0.3892,179.6159
+Pandas,Fraud amount stats,5.7636,336.6794
