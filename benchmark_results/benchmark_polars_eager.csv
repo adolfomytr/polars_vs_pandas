@@ -1,0 +1,15 @@
+Library,Step,Time (s),Peak Memory (MB)
+Polars Eager,Load CSV,10.6501,0.0036
+Polars Eager,Describe numeric columns,1.3857,0.1026
+Polars Eager,Merchang type value counts,0.4803,0.0016
+Polars Eager,Missing values per column,0.0002,0.0001
+Polars Eager,Min txn_date,0.0212,0.0016
+Polars Eager,Max txn_date,0.0024,0.0016
+Polars Eager,Unique customer_id count,0.5077,0.0022
+Polars Eager,Daily transaction count,8.75,0.0058
+Polars Eager,Monthly transaction count,0.2999,0.0029
+Polars Eager,Avg/Total txn by type,0.4071,0.003
+Polars Eager,Top 10 customers by volume,9.0628,0.0021
+Polars Eager,Fraud vs Non-Fraud Count,0.1286,0.0019
+Polars Eager,Fraud rate by txn_type,0.2694,0.0022
+Polars Eager,Fraud amount stats,0.3476,0.0094
