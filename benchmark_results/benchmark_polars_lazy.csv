@@ -1,15 +1,15 @@
 Library,Step,Time (s),Peak Memory (MB)
-Polars Lazy,Load CSV,11.0726,0.0035
-Polars Lazy,Describe numeric columns,1.4202,0.1031
-Polars Lazy,Merchant type value counts,0.616,0.0013
-Polars Lazy,Missing values per column,0.0012,0.0013
-Polars Lazy,Min txn_date,0.0202,0.0013
-Polars Lazy,Max txn_date,0.0024,0.0013
-Polars Lazy,Unique customer_id count,0.3508,0.0015
-Polars Lazy,Daily transaction count,0.1094,0.0023
-Polars Lazy,Monthly transaction count,0.1279,0.0018
-Polars Lazy,Avg/Total txn by type,0.1313,0.0023
-Polars Lazy,Top 10 customers by volume,0.2028,0.0018
-Polars Lazy,Fraud vs Non-Fraud Count,0.0394,0.0022
-Polars Lazy,Fraud rate by merchant_type,0.1691,0.0018
-Polars Lazy,Fraud amount stats,0.8991,0.0098
+Polars Lazy,Load CSV,10.3407,0.0034
+Polars Lazy,Describe numeric columns,1.3746,0.1067
+Polars Lazy,Merchant type value counts,0.3806,0.0013
+Polars Lazy,Missing values per column,0.0013,0.0013
+Polars Lazy,Min txn_date,0.021,0.0013
+Polars Lazy,Max txn_date,0.0025,0.0013
+Polars Lazy,Unique customer_id count,0.3296,0.0015
+Polars Lazy,Daily transaction count,0.0962,0.0025
+Polars Lazy,Monthly transaction count,0.1063,0.0018
+Polars Lazy,Avg/Total txn by merch type,0.1332,0.0023
+Polars Lazy,Top 10 customers by volume,0.1952,0.0018
+Polars Lazy,Fraud vs Non-Fraud Count,0.0241,0.0024
+Polars Lazy,Fraud rate by merchant_type,0.1279,0.0018
+Polars Lazy,Fraud amount stats,0.7072,0.0098
