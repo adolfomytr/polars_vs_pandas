@@ -1,15 +1,15 @@
 Library,Step,Time (s),Peak Memory (MB)
-Polars Eager,Load CSV,10.711,0.0036
-Polars Eager,Describe numeric columns,1.4706,0.1026
-Polars Eager,Merchant type value counts,0.5472,0.0016
+Polars Eager,Load CSV,11.5193,0.0037
+Polars Eager,Describe numeric columns,1.2866,0.102
+Polars Eager,Merchant type value counts,0.4591,0.0016
 Polars Eager,Missing values per column,0.0002,0.0001
-Polars Eager,Min txn_date,0.0216,0.0016
+Polars Eager,Min txn_date,0.0215,0.0016
 Polars Eager,Max txn_date,0.0024,0.0016
-Polars Eager,Unique customer_id count,0.6268,0.0022
-Polars Eager,Daily transaction count,8.726,0.0065
-Polars Eager,Monthly transaction count,0.1911,0.0029
-Polars Eager,Avg/Total txn by merch type,0.4027,0.003
-Polars Eager,Top 10 customers by volume,8.736,0.0021
-Polars Eager,Fraud vs Non-Fraud Count,0.1435,0.0019
-Polars Eager,Fraud rate by merchant_type,0.3029,0.0022
-Polars Eager,Fraud amount stats,0.3494,0.0094
+Polars Eager,Unique customer_id count,0.5703,0.0022
+Polars Eager,Daily transaction count,8.6344,0.0027
+Polars Eager,Monthly transaction count,0.4377,0.0023
+Polars Eager,Avg/Total txn by merch type,0.397,0.0028
+Polars Eager,Top 10 customers by volume,6.4173,0.0021
+Polars Eager,Fraud vs Non-Fraud Count,0.1843,0.0019
+Polars Eager,Fraud rate by merchant_type,0.4743,0.0023
+Polars Eager,Fraud amount stats,0.3137,0.0094
