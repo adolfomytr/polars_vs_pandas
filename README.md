@@ -74,7 +74,7 @@ Each notebook in this repo performs the **same analysis pipeline** using one of 
 ├── pandas_analysis.ipynb
 ├── polars_eager_analysis.ipynb
 ├── polars_lazy_analysis.ipynb
-├── comparison_analysis.ipynb
+├── libraries_comparison.ipynb
 ├── benchmark_pandas.csv
 ├── benchmark_polars_eager.csv
 ├── benchmark_polars_lazy.csv
